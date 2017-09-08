@@ -1,0 +1,19 @@
+
+
+
+ body {
+        background: url('../images/train.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+           }
+
+
+
+.jumbotron {
+     color: black;
+     background-color: rgba(0,0,0,0.3);
+     min-width: 800px;
+     opacity: 0.6;
+}
